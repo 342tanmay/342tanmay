@@ -127,7 +127,7 @@
   />
 </div>
 
-<div align="center">
+<div align="left">
   <h2>Statistics 📈</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=342tanmay&layout=compact&theme=radical" width="500">
 </div>
